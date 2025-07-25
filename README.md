@@ -1,11 +1,5 @@
 # Uber Fares Data Analysis using Power BI
 
-##  Course: INSY 8413 – Introduction to Big Data Analytics  
-**Instructor**: Eric Maniraguha  
-**Student**: [Your Full Name]  
-**Date**: July 2025  
-
----
 
 ##  1. Introduction
 
@@ -21,9 +15,9 @@ This project presents a data analysis of the **Uber Fares Dataset**, with the go
 
 ## 2. Methodology
 
-### 📥 Data Collection:
+###  Data Collection:
 - Source: [Kaggle – Uber Fares Dataset](https://www.kaggle.com/datasets/yasserh/uber-fares-dataset)
-- Format: CSV file (`uber_fares.csv`)
+
 
 ###  Data Cleaning in Python:
 - Removed missing values and invalid entries (e.g. negative fares, unrealistic coordinates)
